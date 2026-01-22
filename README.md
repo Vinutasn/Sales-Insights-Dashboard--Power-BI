@@ -23,7 +23,7 @@ Build a single source of truth using Power BI to enable accurate, real-time, and
 ### 🔄 Data Cleaning & Transformation (Power Query)
 The following steps were performed to ensure data accuracy and consistency:
 - **Market Filtering**
-  -Removed non-India markets (New York, Paris) as the business operates only in India
+  - Removed non-India markets (New York, Paris) as the business operates only in India
   - Excluded blank zones from the Market table
 
 - **Transaction Data Validation**
