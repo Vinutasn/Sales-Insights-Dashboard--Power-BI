@@ -60,14 +60,14 @@ Key Measures:
 ### 📊 Dashboard Features
 
 The final Power BI dashboard includes:
-**💰 Total Revenue & Sales Quantity KPIs**
-**🏙 Revenue by Market (City-wise)**
-**📦 Sales Quantity by Market**
-**📈 Revenue Trend Over Time**
-**👥 Top 5 Customers**
-**🛒 Top 5 Products**
-**🌍 Revenue by Zones (North, Central, South)**
-**🎯 Interactive slicers (Year, Month, Customer)**
+- **💰 Total Revenue & Sales Quantity KPIs**
+- **🏙 Revenue by Market (City-wise)**
+- **📦 Sales Quantity by Market**
+- **📈 Revenue Trend Over Time**
+- **👥 Top 5 Customers**
+- **🛒 Top 5 Products**
+- **🌍 Revenue by Zones (North, Central, South)**
+- **🎯 Interactive slicers (Year, Month, Customer)**
 
 Special setting applied to hide markets with **zero revenue** for better readability.
 
