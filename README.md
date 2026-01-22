@@ -23,24 +23,24 @@ Build a single source of truth using Power BI to enable accurate, real-time, and
 ### 🔄 Data Cleaning & Transformation (Power Query)
 The following steps were performed to ensure data accuracy and consistency:
 - **Market Filtering**
-Removed non-India markets (New York, Paris) as the business operates only in India
-Excluded blank zones from the Market table
+  -Removed non-India markets (New York, Paris) as the business operates only in India
+  - Excluded blank zones from the Market table
 
 - **Transaction Data Validation**
-Removed invalid sales values (`0` and `-1`)
-Identified inconsistent currency values (`INR`, `INR\r`, `USD`, `USD\r`)
+  - Removed invalid sales values (`0` and `-1`)
+  - Identified inconsistent currency values (`INR`, `INR\r`, `USD`, `USD\r`)
 
 - **Currency Standardization**
-Converted all USD values to INR
-Conversion rate used: 1 USD = 75 INR
-Created a new column `norm_sales_amount` for standardized revenue
+  - Converted all USD values to INR
+  - Conversion rate used: 1 USD = 75 INR
+  - Created a new column `norm_sales_amount` for standardized revenue
 
 - **Duplicate & Incorrect Records Handling**
-Retained `INR\r` and `USD\r` values
-Removed less frequent and duplicate currency records
+  - Retained `INR\r` and `USD\r` values
+  - Removed less frequent and duplicate currency records
 
 - **Data Type Fix**
-Converted `norm_sales_amount` from text to decimal to enable correct revenue calculations
+  - Converted `norm_sales_amount` from text to decimal to enable correct revenue calculations
 
 ### 🗄️ Data Modeling
 - Created a **star schema** with fact and dimension tables
