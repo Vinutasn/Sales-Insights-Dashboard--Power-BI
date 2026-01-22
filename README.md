@@ -88,9 +88,9 @@ SQL queries were used to:
 
 ### 📎 Project Deliverables
 
--- ✅ Power BI Dashboard  
--- ✅ Data Cleaning & Transformation Steps
--- ✅ SQL Queries for Insights
+- ✅ Power BI Dashboard  
+- ✅ Data Cleaning & Transformation Steps
+- ✅ SQL Queries for Insights
 
 ### 📬 Contact
 
