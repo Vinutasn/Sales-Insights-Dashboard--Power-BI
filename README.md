@@ -16,11 +16,8 @@ Build a single source of truth using Power BI to enable accurate, real-time, and
 ### 🛠 Tools & Technologies Used
 
 **Power BI** – Data modeling, DAX measures, and dashboard visualization
-
 **MySQL** – Data extraction and analysis using SQL queries
-
 **Power Query** – Data cleaning, transformation, and ETL
-
 **SQL** – Business queries to validate and derive insights
 
 ### 🔄 Data Cleaning & Transformation (Power Query)
