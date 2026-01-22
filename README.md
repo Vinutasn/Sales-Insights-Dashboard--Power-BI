@@ -14,6 +14,7 @@ AtliQ Hardware operates across multiple regional offices in India but struggles 
 Build a single source of truth using Power BI to enable accurate, real-time, and actionable sales insights for better decision-making.
 
 ### 🛠 Tools & Technologies Used
+
 **Power BI** – Data modeling, DAX measures, and dashboard visualization
 **MySQL** – Data extraction and analysis using SQL queries
 **Power Query** – Data cleaning, transformation, and ETL
