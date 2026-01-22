@@ -95,5 +95,7 @@ SQL queries were used to:
 ### 📬 Contact
 
 Vinuta Nadiger
+
 📧 vinuta.nadiger1@gmail.com | https://www.linkedin.com/in/vinutasnadiger/
+
 💼 Data Analyst | Power BI | SQL | Excel
